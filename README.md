@@ -84,13 +84,6 @@ This project helped me better understand:
 
 A local demo video of the project is included in my LinkedIn post / project showcase.
 
-## Screenshots
-Add screenshots here if available:
-
-- Home page
-- Dashboard
-- Support page
-- Admin page
 
 ## Setup Instructions
 
